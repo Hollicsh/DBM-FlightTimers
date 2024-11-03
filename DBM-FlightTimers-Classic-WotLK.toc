@@ -1,4 +1,4 @@
-## Interface: 30403
+## Interface: 40401
 ## Version: @project-version@
 ## Title:|cffffe00a<|r|cffff7d0aDBM Mod|r|cffffe00a>|r |cffff0000Flight Timers|r
 ## Title-deDE:|cffffe00a<|r|cffff7d0aDBM Mod|r|cffffe00a>|r |cffff0000Flug Timer|r
